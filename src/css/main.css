@@ -386,8 +386,19 @@ nav a:hover {
 .image-container > img {
   width: 360px;
   max-width: 80vw;
+  padding: 10px;
 }
 
 .main-header {
   text-align: center;
+  padding: 10px;
+}
+
+.details {
+  padding-top: 20px;
+  font-weight: 100;
+}
+
+.details > p {
+  font-size: 18px;
 }
