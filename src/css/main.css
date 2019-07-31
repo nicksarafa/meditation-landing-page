@@ -371,3 +371,23 @@ nav a:hover {
         page-break-after: avoid;
     }
 }
+
+/* ==========================================================================
+   Custom Styles
+   ========================================================================== */
+
+.image-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-container > img {
+  width: 360px;
+  max-width: 80vw;
+}
+
+.main-header {
+  text-align: center;
+}
