@@ -226,9 +226,9 @@ nav a:hover {
     WIDE: Menu
    ============ */
 
-    .title {
+    /* .title {
         float: left;
-    }
+    } */
 
     nav {
         float: right;
@@ -473,9 +473,10 @@ a.phone-number {
   text-align: center;
   font-family: "lato", sans-serif;
   font-weight: 300;
-  font-size: 40px;
+  font-size: 36px;
   margin: 40px 0;
 }
+
 #title span {
   background: -webkit-linear-gradient(white, #38495a);
   -webkit-background-clip: text;
